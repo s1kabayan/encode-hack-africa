@@ -14,7 +14,7 @@ How to run:
 3. Create a fie in root folder with name ".env" and enter FROM ACCOUNT and RINKEBY_RPC_URL as follows:
 FROM_ACCOUNT=<0x Polygon Address/Account>
 4. In root folder, run command 
-5. ```bash 
-6. node server.js 
-7. ```
-8. Use browser to create NFT token for digital artwork with URL, for example, http://localhost:4000/mint?toaddress=<to adddress>&tokenuri=<ipfs metadata json uri> .
+```bash 
+ node server.js  
+ ```
+5. Use browser to create NFT token for digital artwork with URL, for example, http://localhost:4000/mint?toaddress=<to adddress>&tokenuri=<ipfs metadata json uri> .
