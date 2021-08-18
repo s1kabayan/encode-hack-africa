@@ -1,4 +1,6 @@
-# Metaplex
+# Hack Africa Challenges:: Build Dapp on Polygon
+
+## Metaplex
 Microservice for backend/REST API for NFT based marketplace for digital artwork
 
 How to install:
